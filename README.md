@@ -3,6 +3,9 @@ Fuse (the Free Unix Spectrum Emulator) was originally, and somewhat unsurprising
 How to install
 
 -Download the xpbs
+
 xbps-rindex -a *.xbps
+
 sudo xpbs-install -R $PWD libspectrum-1.5.0_2
+
 sudo xpbs-install -R $PWD fuse-emulator-1.6.0_1
