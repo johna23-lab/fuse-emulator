@@ -8,6 +8,6 @@ How to install
 
 xbps-rindex -a *.xbps
 
-sudo xpbs-install -R $PWD libspectrum-1.5.0_2
+sudo xbps-install -R $PWD libspectrum-1.5.0_2
 
-sudo xpbs-install -R $PWD fuse-emulator-1.6.0_1
+sudo xbps-install -R $PWD fuse-emulator-1.6.0_1
