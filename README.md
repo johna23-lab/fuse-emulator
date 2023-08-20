@@ -2,7 +2,7 @@ Fuse (the Free Unix Spectrum Emulator) was originally, and somewhat unsurprising
 
 How to install
 
--Download the xpbs
+-Download the xbps
 
 xbps-rindex -a *.xbps
 
